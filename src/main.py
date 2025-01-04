@@ -26,6 +26,8 @@ class Snake:
 
             pygame.draw.rect(screen, (183, 111, 122), block_rect)
 
+    def move_snake
+
 cell_size = 40
 cell_number = 20
 screen = pygame.display.set_mode((cell_size * cell_number, cell_size * cell_number))
