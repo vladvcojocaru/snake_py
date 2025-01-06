@@ -1,7 +1,6 @@
 import random
 import sys
 import pygame
-from pygame.constants import SRCCOLORKEY
 from pygame.math import Vector2
 
 
